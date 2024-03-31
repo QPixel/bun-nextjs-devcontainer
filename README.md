@@ -11,3 +11,4 @@ I'm lazy and I want to write my code once
 - eslint for some reason
 - bun
 - it also auto bun installs and exposes port 3000
+- also a postgres db
